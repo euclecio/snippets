@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+echo '<pre>';print_r(\$${1:var});die;
+]]></content>
+    <tabTrigger>preprint</tabTrigger>
+    <scope>source.php</scope>
+    <description>Pretty print PHP Array</description>
+</snippet>
