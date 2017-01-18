@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * @author ${1:Euclécio Josias Rodrigues <eucjosias@gmail.com>}
+ */
+]]></content>
+    <tabTrigger>newauthor</tabTrigger>
+    <scope>source.php</scope>
+     <description>New author to a PHP Class</description>
+</snippet>
